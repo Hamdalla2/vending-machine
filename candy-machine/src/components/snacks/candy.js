@@ -8,7 +8,7 @@ render() {
     {/* first row */}
     <img className="candy-item" id="11" style={{left:"27vw",top:"0vh"}} src="https://cdn.shopify.com/s/files/1/0061/0782/4216/products/C5C52833-8F38-4E9A-AB72-F344A09F66E6_600x.png?v=1613438867" alt="candy item"/>
     <img className="candy-item" id="12" style={{left:"34vw",top:"0vh"}} src="https://www.thecandyjarby1892.com/wp-content/uploads/2020/03/chupete.png" alt="candy item"/>
-    <img className="candy-item" id="13" style={{left:"40vw",top:"0vh"}} src="https://www.havmor.com/wp-content/uploads/2019/02/Rocket-Candy.png" alt="candy item"/>
+    <img className="candy-item" id="13" style={{left:"40vw",top:"0vh"}} src="https://i.imgur.com/4OySEcp.png" alt="candy item"/>
     <img className="candy-item" id="14" style={{left:"46vw",top:"0vh"}} src="https://upload.wikimedia.org/wikipedia/commons/9/90/Candy-Cane-Classic_thumbnail.png" alt="candy item"/>    
     <img className="candy-item" id="15" style={{left:"50vw",top:"0vh"}} src="https://www.yogurt-land.com/assets/634.png" alt="candy item"/>
     <img className="candy-item" id="16" style={{left:"56vw",top:"0vh"}} src="https://cdn.shopify.com/s/files/1/0511/5969/5552/files/bliss-home-header-cone_2400x.png?v=1614366445" alt="candy item"/>
@@ -34,7 +34,7 @@ render() {
     <img className="candy-item" id="26" style={{left:"56vw",top:"15vh"}} src="https://www.tingstad.com/fixed/images/Main/1550834217/36195.png" alt="candy item"/>
     <img className="candy-item" id="27" style={{left:"61vw",top:"15vh"}} src="https://www.laudinella.ch/delivery-shop/wp-content/uploads/2014/12/RedBull.png" alt="candy item"/>
     <img className="candy-item" id="28" style={{left:"67vw",top:"15vh"}} src="https://repracores.pt/wp-content/uploads/2019/10/pepsi-cola.png" alt="candy item"/>
-    <img className="candy-item" id="29" style={{left:"72vw",top:"15vh"}} src="http://assets.stickpng.com/images/580b585b2edbce24c47b2780.png" alt="candy item"/>    
+    <img className="candy-item" id="29" style={{left:"72vw",top:"15vh"}} src="https://i.imgur.com/MOHkCtP.png" alt="candy item"/>    
     
     <label className="candy-label" style={{left:"28vw",top:"25vh"}}>21</label> 
     <label className="candy-label" style={{left:"35vw",top:"25vh"}}>22</label> 
@@ -48,7 +48,7 @@ render() {
     {/* third row */}
     <img className="candy-item" id="31" style={{left:"27vw",top:"30vh"}} src="https://cdn.shopify.com/s/files/1/0061/0782/4216/products/C5C52833-8F38-4E9A-AB72-F344A09F66E6_600x.png?v=1613438867" alt="candy item"/>
     <img className="candy-item" id="32" style={{left:"34vw",top:"30vh"}} src="https://www.thecandyjarby1892.com/wp-content/uploads/2020/03/chupete.png" alt="candy item"/>
-    <img className="candy-item" id="33" style={{left:"40vw",top:"30vh"}} src="https://www.havmor.com/wp-content/uploads/2019/02/Rocket-Candy.png" alt="candy item"/>
+    <img className="candy-item" id="33" style={{left:"40vw",top:"30vh"}} src="https://i.imgur.com/4OySEcp.png" alt="candy item"/>
     <img className="candy-item" id="34" style={{left:"46vw",top:"30vh"}} src="https://upload.wikimedia.org/wikipedia/commons/9/90/Candy-Cane-Classic_thumbnail.png" alt="candy item"/>    
     <img className="candy-item" id="35" style={{left:"50vw",top:"30vh"}} src="https://www.yogurt-land.com/assets/634.png" alt="candy item"/>
     <img className="candy-item" id="36" style={{left:"56vw",top:"30vh"}} src="https://cdn.shopify.com/s/files/1/0511/5969/5552/files/bliss-home-header-cone_2400x.png?v=1614366445" alt="candy item"/>
@@ -74,7 +74,7 @@ render() {
     <img className="candy-item" id="46" style={{left:"56vw",top:"45vh"}} src="https://www.tingstad.com/fixed/images/Main/1550834217/36195.png" alt="candy item"/>
     <img className="candy-item" id="47" style={{left:"61vw",top:"45vh"}} src="https://www.laudinella.ch/delivery-shop/wp-content/uploads/2014/12/RedBull.png" alt="candy item"/>
     <img className="candy-item" id="48" style={{left:"67vw",top:"45vh"}} src="https://repracores.pt/wp-content/uploads/2019/10/pepsi-cola.png" alt="candy item"/>
-    <img className="candy-item" id="49" style={{left:"72vw",top:"45vh"}} src="http://assets.stickpng.com/images/580b585b2edbce24c47b2780.png" alt="candy item"/>    
+    <img className="candy-item" id="49" style={{left:"72vw",top:"45vh"}} src="https://i.imgur.com/MOHkCtP.png" alt="candy item"/>    
     
     <label className="candy-label" style={{left:"28vw",top:"55vh"}}>41</label> 
     <label className="candy-label" style={{left:"35vw",top:"55vh"}}>42</label> 
@@ -88,7 +88,7 @@ render() {
     {/* fifth row */}
     <img className="candy-item" id="51" style={{left:"27vw",top:"60vh"}} src="https://cdn.shopify.com/s/files/1/0061/0782/4216/products/C5C52833-8F38-4E9A-AB72-F344A09F66E6_600x.png?v=1613438867" alt="candy item"/>
     <img className="candy-item" id="52" style={{left:"34vw",top:"60vh"}} src="https://www.thecandyjarby1892.com/wp-content/uploads/2020/03/chupete.png" alt="candy item"/>
-    <img className="candy-item" id="53" style={{left:"40vw",top:"60vh"}} src="https://www.havmor.com/wp-content/uploads/2019/02/Rocket-Candy.png" alt="candy item"/>
+    <img className="candy-item" id="53" style={{left:"40vw",top:"60vh"}} src="https://i.imgur.com/4OySEcp.png" alt="candy item"/>
     <img className="candy-item" id="54" style={{left:"46vw",top:"60vh"}} src="https://upload.wikimedia.org/wikipedia/commons/9/90/Candy-Cane-Classic_thumbnail.png" alt="candy item"/>    
     <img className="candy-item" id="55" style={{left:"50vw",top:"60vh"}} src="https://www.yogurt-land.com/assets/634.png" alt="candy item"/>
     <img className="candy-item" id="56" style={{left:"56vw",top:"60vh"}} src="https://cdn.shopify.com/s/files/1/0511/5969/5552/files/bliss-home-header-cone_2400x.png?v=1614366445" alt="candy item"/>
