@@ -1,5 +1,8 @@
-# vending-machine
-Hamdallah Fatayer interview task for job at freightos
+# candy vending machine
+Task for job interview, using simple react & redux
 
 # link
-http://candy-machine-2000.surge.sh/
+http://candyvendingmachine.surge.sh/
+
+# preview
+![Preview](https://i.imgur.com/S6BI2gA.png)
